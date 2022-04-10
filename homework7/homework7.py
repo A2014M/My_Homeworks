@@ -17,3 +17,4 @@ with open('my_file.txt', 'r') as user_file:
     
     for line in user_file:
         print(line)
+
