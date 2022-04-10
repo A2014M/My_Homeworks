@@ -61,7 +61,3 @@ women.can_speak()
 women.climb_trees()
 women.have_backbone()
 women.feed_with_milk()
-
-
-
-
